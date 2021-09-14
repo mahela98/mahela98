@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mahela98
+- 👋 Hi, I’m Chandima Mahela
 - 🌱 I’m currently learning.
 
 

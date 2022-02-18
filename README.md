@@ -10,8 +10,8 @@
 
 
 
-<!-- ### Languages and Tools -->
-<!-- <div align="center" >
+ ### Languages and Tools
+ <div align="center" >
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"    title="C" alt="C"  width="30px" style="padding-right: 1%;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"    title="HTML" alt="HTML"  width="30px" style="padding-right: 1%;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"   title="Js" alt="Js"  width="30px" style="padding-right: 1%;" />
@@ -31,7 +31,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"    title="React" alt="React"  width="30px" style="padding-right: 1%;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg"   title="Xd" alt="Xd"  width="30px" style="padding-right: 1%;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"    title="Bootstrap" alt="Bootstrap"  width="30px" style="padding-right: 1%;"/>
- -->
+
 
 
 </div>
@@ -41,12 +41,10 @@
 
 
 
-<!-- ![mahela98](https://github-readme-stats.vercel.app/api?username=mahela98&count_private=true&hide=stars,contribs&include_all_commits=true&line_height=24&show_icons=true&theme=tokyonight)
+![mahela98](https://github-readme-stats.vercel.app/api?username=mahela98&count_private=true&hide=stars,contribs&include_all_commits=true&line_height=24&show_icons=true&theme=tokyonight)
 
 
 
 ![mahela98](https://github-readme-stats.vercel.app/api/top-langs/?username=mahela98&layout=compact&langs_count=6&theme=tokyonight)
 
- -->
- -->
 

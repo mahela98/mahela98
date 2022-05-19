@@ -1,12 +1,6 @@
 
-<!-- 
-
-- 👋 Hi, I’m Chandima Mahela 
-- 🌱 I’m currently learning.
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chandima-mahela-siriwardana)
-<!-- [![Linkedin Badge](https://img.shields.io/badge/-Instagram-0e76a8?style=flat-square&logo=Instagram&logoColor=white)](https://Instagram.com/chandima_mahela_)
-[![Linkedin Badge](https://img.shields.io/badge/-FaceBook-0e76a8?style=flat-square&logo=FaceBook&logoColor=white)](https://FaceBook.com/in/denver-shenal) -->
+
 
 
 
@@ -41,7 +35,7 @@
 
 
 
-![mahela98](https://github-readme-stats.vercel.app/api?username=mahela98&count_private=true&hide=stars,contribs&include_all_commits=true&line_height=24&show_icons=true&theme=tokyonight)
+![mahela98](https://github-readme-stats.vercel.app/api?username=mahela98&count_private=true&include_all_commits=true&line_height=24&show_icons=true&theme=tokyonight)
 
 
 

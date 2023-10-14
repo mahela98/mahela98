@@ -67,6 +67,42 @@
 <br />
 
 
+<br />
+
+<div align="center">
+  <div style="display: flex; flex-wrap: wrap;">
+    <div style="flex: 50%; padding: 5px;">
+      <div style="border: 1px solid #ccc; border-radius: 5px; padding: 10px; display: flex;">
+        <img src="https://github.com/mahela98/Acumatica-React-Frontend/assets/59562575/b8e77221-b599-4bcd-8f78-c87c55c11237" title="C#" alt="C#" width="10%" />
+        <div>
+          <p style="text-align: left; margin-bottom: 5px;">Technologies:</p>
+          <ul style="text-align: left; margin-bottom: 10px;">
+            <li>Technology 1</li>
+            <li>Technology 2</li>
+            <li>Technology 3</li>
+          </ul>
+          <p style="text-align: justify;">Project 1 is a web application that allows users to do X, Y, and Z. It was built using Technology 1, Technology 2, and Technology 3.</p>
+        </div>
+      </div>
+    </div>
+    <div style="flex: 50%; padding: 5px;">
+      <div style="border: 1px solid #ccc; border-radius: 5px; padding: 10px; display: flex;">
+       <img src="https://github.com/mahela98/Acumatica-React-Frontend/assets/59562575/07399dc6-b502-4880-bcbe-2f82070632b3" title="MSSQL" alt="MSSQL" width="10%" />
+        <div>
+          <p style="text-align: left; margin-bottom: 5px;">Technologies:</p>
+          <ul style="text-align: left; margin-bottom: 10px;">
+            <li>Technology 4</li>
+            <li>Technology 5</li>
+            <li>Technology 6</li>
+          </ul>
+          <p style="text-align: justify;">Project 2 is a mobile app that helps users do A, B, and C. It was built using Technology 4, Technology 5, and Technology 6.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
 <div align="center">
   <div style="display: flex; flex-wrap: wrap;">
     <div style="flex: 33.33%; padding: 5px;">

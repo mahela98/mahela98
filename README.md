@@ -14,6 +14,12 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="30px" style="padding-right: 1%;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="MSSQL" alt="MSSQL" width="30px" style="padding-right: 1%;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" title=".NET" alt=".NET" width="30px" style="padding-right: 1%;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="30px" style="padding-right: 1%;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="30px" style="padding-right: 1%;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" title="Android" alt="Android" width="30px" style="padding-right: 1%;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="30px" style="padding-right: 1%;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="30px" style="padding-right: 1%;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="30px" style="padding-right: 1%;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="30px" style="padding-right: 1%;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub Workflows" alt="GitHub Workflows" width="30px" style="padding-right: 1%; background-color: purple;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" title="MUI" alt="MUI" width="30px" style="padding-right: 1%;" />
@@ -50,75 +56,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahela98&layout=compact&langs_count=6&theme=tokyonight" alt="mahela98's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahela98&layout=compact&langs_count=6&theme=tokyonight&hide=php,java" alt="mahela98's Top Languages" />
 </p>
 
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/chandima-mahela-siriwardana">
-    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <img src="https://img.shields.io/github/stars/mahela98?style=social" alt="GitHub Stars" />
-  <img src="https://img.shields.io/github/followers/mahela98?style=social" alt="GitHub Followers" />
-</div>
-
 <br />
 
 <br />
-
-
-<br />
-
-<div align="center">
-  <div style="display: flex; flex-wrap: wrap;">
-    <div style="flex: 50%; padding: 5px;">
-      <div style="border: 1px solid #ccc; border-radius: 5px; padding: 10px; display: flex;">
-        <img src="https://github.com/mahela98/Acumatica-React-Frontend/assets/59562575/b8e77221-b599-4bcd-8f78-c87c55c11237" title="C#" alt="C#" width="10%" />
-        <div>
-          <p style="text-align: left; margin-bottom: 5px;">Technologies:</p>
-          <ul style="text-align: left; margin-bottom: 10px;">
-            <li>Technology 1</li>
-            <li>Technology 2</li>
-            <li>Technology 3</li>
-          </ul>
-          <p style="text-align: justify;">Project 1 is a web application that allows users to do X, Y, and Z. It was built using Technology 1, Technology 2, and Technology 3.</p>
-        </div>
-      </div>
-    </div>
-    <div style="flex: 50%; padding: 5px;">
-      <div style="border: 1px solid #ccc; border-radius: 5px; padding: 10px; display: flex;">
-       <img src="https://github.com/mahela98/Acumatica-React-Frontend/assets/59562575/07399dc6-b502-4880-bcbe-2f82070632b3" title="MSSQL" alt="MSSQL" width="10%" />
-        <div>
-          <p style="text-align: left; margin-bottom: 5px;">Technologies:</p>
-          <ul style="text-align: left; margin-bottom: 10px;">
-            <li>Technology 4</li>
-            <li>Technology 5</li>
-            <li>Technology 6</li>
-          </ul>
-          <p style="text-align: justify;">Project 2 is a mobile app that helps users do A, B, and C. It was built using Technology 4, Technology 5, and Technology 6.</p>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-
-
-<div align="center">
-  <div style="display: flex; flex-wrap: wrap;">
-    <div style="flex: 33.33%; padding: 5px;">
-      <div style="border: 1px solid #ccc; border-radius: 5px; padding: 10px;">
-        <img src="https://github.com/mahela98/Acumatica-React-Frontend/assets/59562575/b8e77221-b599-4bcd-8f78-c87c55c11237" title="C#" alt="C#" width="30%" />
-        <p style="text-align: center;">C#</p>
-        <p style="text-align: justify;">My Awesome Project is a web application that allows users to do X, Y, and Z. It was built using React and Node.js.</p>
-      </div>
-    </div>
-    <div style="flex: 33.33%; padding: 5px;">
-      <div style="border: 1px solid #ccc; border-radius: 5px; padding: 10px;">
-        <img src="https://github.com/mahela98/Acumatica-React-Frontend/assets/59562575/07399dc6-b502-4880-bcbe-2f82070632b3" title="MSSQL" alt="MSSQL" width="30%" />
-        <p style="text-align: center;">MSSQL</p>
-        <p style="text-align: justify;">Another Cool Project is a mobile app that helps users do A, B, and C. It was built using React Native and Firebase.</p>
-      </div>
-    </div>
-    
-  </div>
-</div>

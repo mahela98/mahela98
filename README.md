@@ -2,7 +2,7 @@
   <h1 align="center">Hi there, I'm <span style="color: #0078D4;">Chandima Mahela Siriwardana</span> 👋</h1>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1200&color=0078D4&center=true&vCenter=true&width=650&lines=AI+Engineer+%26+Solutions+Architect;Multi-Agent+Systems+%26+Azure+AI+Foundry;Microsoft+Agent+Framework+%26+Semantic+Kernel;Secure+Enterprise+System+Design;Python+%7C+.NET+%7C+TypeScript+%7C+Cloud" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1200&color=0078D4&center=true&vCenter=true&width=680&lines=AI+Engineer+%26+Solutions+Architect;Cross-Platform+Mobile+Developer+(Flutter+%26+Dart);Multi-Agent+Systems+%26+Azure+AI+Foundry;Microsoft+Agent+Framework+%26+Semantic+Kernel;Secure+Enterprise+System+Design;Python+%7C+Flutter+%7C+.NET+%7C+TypeScript+%7C+Cloud" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -22,16 +22,17 @@
 
 ### 🚀 About Me
 
-Hey there! 👋 I'm an **AI Engineer & Solutions Architect** with deep roots in full-stack software engineering. I help businesses turn ambitious ideas into secure, high-impact, enterprise-grade AI systems.
+Hey there! 👋 I'm an **AI Engineer & Solutions Architect** with strong foundations in **Cross-Platform Mobile Engineering (Flutter)** and **Enterprise Software Architecture**. I love taking ambitious business problems and engineering secure, intelligent, and scalable systems across mobile, web, and cloud.
 
-- 🤖 **Agentic AI & RAG**: Building autonomous multi-agent workflows and smart copilot solutions with **Microsoft Agent Framework**, **Azure AI Foundry**, and **Semantic Kernel**.
-- 🛡️ **Secure by Design**: Designing resilient, zero-trust architectures with robust guardrails and enterprise security best practices.
-- ⚡ **Full-Stack Roots**: Leveraging strong engineering foundations in **Python**, **.NET (C#)**, and **TypeScript / React** to ship rock-solid production backends.
-- 💡 **Always Exploring**: Passionate about cutting-edge agentic workflows, LLMOps, and distributed cloud systems.
+- 🤖 **Agentic AI & Intelligent Systems**: Architecting autonomous multi-agent workflows, tool-augmented copilots, and high-precision RAG systems using **Microsoft Agent Framework**, **Azure AI Foundry**, and **Semantic Kernel**.
+- 📱 **Cross-Platform Mobile (Flutter & Dart)**: Crafting fluid, production-ready iOS & Android apps with modern state management (**Riverpod**, **Bloc**), geolocation/maps, push notifications, and offline-first syncing.
+- 🛡️ **Secure by Design**: Designing high-availability architectures built on **Zero-Trust principles**, **Threat Modeling**, **OWASP LLM Security**, and enterprise RBAC/Auth0.
+- ⚡ **Full-Stack & Distributed Backends**: Deep hands-on experience across **Python (FastAPI)**, **.NET 8 / C#**, and **React / Next.js** to deliver rock-solid production platforms.
+- 🔌 **Agentic Tooling & MCP**: Building custom **Model Context Protocol (MCP)** servers to bridge AI agents with native mobile emulators and real-world tools.
 
 ---
 
-### 🏛️ Core Architectural Pillars
+### 🏛️ Core Architectural & Engineering Pillars
 
 <table>
   <tr>
@@ -42,27 +43,27 @@ Hey there! 👋 I'm an **AI Engineer & Solutions Architect** with deep roots in 
         <li><b>Azure AI Foundry</b> & Azure OpenAI</li>
         <li><b>Semantic Kernel</b> & LangChain</li>
         <li>Advanced RAG & Vector Indexing</li>
-        <li>Function Calling & Autonomous Agents</li>
+        <li>Model Context Protocol (MCP) Tooling</li>
       </ul>
     </td>
     <td width="33%" valign="top">
-      <h4 align="center">🛡️ Secure System Design</h4>
+      <h4 align="center">📱 Mobile & Edge Engineering</h4>
+      <ul>
+        <li><b>Flutter & Dart</b> (iOS & Android)</li>
+        <li><b>Riverpod & Bloc</b> State Architecture</li>
+        <li>Supabase, Firebase Core & Cloud Messaging</li>
+        <li>Google Maps API & Geolocation Tracking</li>
+        <li>Mobile Screen MCP (Agentic Device Control)</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h4 align="center">🛡️ Secure Enterprise Systems</h4>
       <ul>
         <li><b>Zero Trust Architecture</b> & Threat Modeling</li>
-        <li>Secure API Design (OAuth2 / OIDC / Auth0)</li>
-        <li>OWASP Top 10 & LLM Guardrails</li>
-        <li>Enterprise RBAC & Data Encryption</li>
-        <li>Microservices & Event-Driven Systems</li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <h4 align="center">⚙️ Enterprise Engineering</h4>
-      <ul>
-        <li><b>Python</b> (FastAPI, AsyncIO, PyTorch)</li>
+        <li><b>Python</b> (FastAPI, SQLAlchemy Async)</li>
         <li><b>.NET 8 / C#</b> (ASP.NET Core, EF Core)</li>
-        <li><b>React.js, Next.js</b> & TypeScript</li>
-        <li>MSSQL, PostgreSQL (pgvector), MongoDB</li>
-        <li>Docker, Linux & CI/CD Pipelines</li>
+        <li><b>Next.js & React</b> (TypeScript, Tailwind)</li>
+        <li>PostgreSQL (pgvector), MSSQL, Docker</li>
       </ul>
     </td>
   </tr>
@@ -84,7 +85,19 @@ Hey there! 👋 I'm an **AI Engineer & Solutions Architect** with deep roots in 
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Model_Context_Protocol_(MCP)-101828?style=flat-square&logo=anthropic&logoColor=white" alt="MCP" />
+</p>
+
+#### 📱 Mobile Development & Cross-Platform
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Riverpod-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Riverpod" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" alt="iOS" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Firebase_Messaging-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase Messaging" />
+  <img src="https://img.shields.io/badge/Google_Maps_API-4285F4?style=flat-square&logo=googlemaps&logoColor=white" alt="Google Maps" />
 </p>
 
 #### ☁️ Cloud, Security & DevOps
@@ -98,37 +111,26 @@ Hey there! 👋 I'm an **AI Engineer & Solutions Architect** with deep roots in 
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
 </p>
 
-#### ⚙️ Backend & Enterprise Languages
+#### ⚙️ Backend, Web & Enterprise Languages
 <p align="center">
   <img src="https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/PHP_/_Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-</p>
-
-#### 🎨 Frontend, Mobile & UI/UX
-<p align="center">
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white" alt="Material UI" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
 #### 🗄️ Databases & Vector Storage
 <p align="center">
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="MSSQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="MSSQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Firebase_Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Firebase_Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firestore" />
 </p>
 
 </div>
@@ -140,7 +142,54 @@ Hey there! 👋 I'm an **AI Engineer & Solutions Architect** with deep roots in 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🏢 <a href="https://github.com/mahela98/EMVS-Employee-Management-Visualization-System-Readme">EMVS - Employee Management & Visualization System</a></h4>
+      <h4>🤖 Transporter Mini — AI Fleet & Route Optimization</h4>
+      <p>AI-powered corporate transport management system with automated agent booking, intelligent route planning, and MS Teams integration.</p>
+      <p>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/Azure_OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="Azure OpenAI" />
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="Postgres" />
+      </p>
+      <ul>
+        <li>Async SQLAlchemy 2.0 backend with Redis caching</li>
+        <li>Conversational transport booking bot for MS Teams</li>
+        <li>React 18 + TypeScript + Vite responsive dashboard</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📱 Yakadaweda — Commercial Steel & Materials Platform</h4>
+      <p>Production cross-platform mobile marketplace connecting customers and suppliers across Sri Lanka with realtime tracking.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+        <img src="https://img.shields.io/badge/Riverpod-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Riverpod" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+        <img src="https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white" alt="Google Maps" />
+      </p>
+      <ul>
+        <li>Reactive state architecture powered by Flutter Riverpod 2.5</li>
+        <li>Integrated Google Maps geolocation & live supplier discovery</li>
+        <li>Supabase Postgres BaaS + Firebase Push Notifications</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🔌 Mobile Screen MCP — Agentic Mobile Automation</h4>
+      <p>Model Context Protocol server enabling LLM agents to autonomously inspect, tap, type, and navigate booted iOS & Android emulators.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/MCP-101828?style=flat-square&logo=anthropic&logoColor=white" alt="MCP" />
+        <img src="https://img.shields.io/badge/iOS_Simulator-000000?style=flat-square&logo=apple&logoColor=white" alt="iOS" />
+        <img src="https://img.shields.io/badge/Android_Emulator-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
+      </p>
+      <ul>
+        <li>Local screenshot capture & coordinate-based tap execution</li>
+        <li>Automated agent-driven mobile QA and UX flows</li>
+        <li>Cross-platform support for macOS Simulators and ADB devices</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🏢 <a href="https://github.com/mahela98/EMVS-Employee-Management-Visualization-System-Readme">EMVS — Enterprise Management & Visualization</a></h4>
       <p>Enterprise management platform built with modern architectural patterns, interactive analytics, and robust security.</p>
       <p>
         <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
@@ -149,55 +198,9 @@ Hey there! 👋 I'm an **AI Engineer & Solutions Architect** with deep roots in 
         <img src="https://img.shields.io/badge/Auth0-EB5424?style=flat-square&logo=auth0&logoColor=white" alt="Auth0" />
       </p>
       <ul>
-        <li>OData REST APIs with Entity Framework Core</li>
+        <li>OData REST APIs with Entity Framework Core & MSSQL</li>
         <li>Secure JWT & Auth0 enterprise authentication</li>
-        <li>Material UI v5 & Chart.js data visualization</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🔒 <a href="https://github.com/mahela98/NestJs-Auth0-Gym-App-Backend">NestJS Enterprise Gym Management Backend</a></h4>
-      <p>Scalable, modular microservices backend with secure role-based access control and NoSQL persistence.</p>
-      <p>
-        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-        <img src="https://img.shields.io/badge/Auth0-EB5424?style=flat-square&logo=auth0&logoColor=white" alt="Auth0" />
-      </p>
-      <ul>
-        <li>Clean modular architecture & dependency injection</li>
-        <li>Auth0 JWT token verification & RBAC guardrails</li>
-        <li>Mongoose / MongoDB aggregation pipelines</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🧪 <a href="https://github.com/mahela98/ChemHub-Chemical-Management-Distribution-System">ChemHub - Chemical Distribution System</a></h4>
-      <p>Secure cloud inventory and distribution management platform with realtime sync and granular authorization.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-        <img src="https://img.shields.io/badge/Firebase_Auth-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase Auth" />
-        <img src="https://img.shields.io/badge/Cloud_Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firestore" />
-        <img src="https://img.shields.io/badge/MUI_v5-007FFF?style=flat-square&logo=mui&logoColor=white" alt="MUI" />
-      </p>
-      <ul>
-        <li>Realtime Firestore data subscriptions</li>
-        <li>Firebase Security Rules & Role-based authentication</li>
-        <li>Responsive Material-UI design system</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>📱 <a href="https://github.com/mahela98/Flutter-Movie-App">Flutter Cross-Platform Mobile Applications</a></h4>
-      <p>Production cross-platform mobile experiences with resilient state management and asynchronous API integrations.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
-        <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white" alt="REST API" />
-      </p>
-      <ul>
-        <li>Clean UI architecture & state management</li>
-        <li>REST API consumption & offline caching</li>
-        <li>Smooth micro-animations & native device UX</li>
+        <li>Material UI v5 & Chart.js data analytics visualization</li>
       </ul>
     </td>
   </tr>
@@ -222,7 +225,7 @@ Hey there! 👋 I'm an **AI Engineer & Solutions Architect** with deep roots in 
 ### 🤝 Let's Connect & Collaborate
 
 <div align="center">
-  <p>I'm always open to discussing <b>AI Solution Architecture</b>, <b>Multi-Agent Systems</b>, <b>Secure Enterprise Design</b>, or innovative engineering challenges.</p>
+  <p>Always open to discussing <b>AI Solution Architecture</b>, <b>Mobile App Development (Flutter)</b>, or <b>Secure Enterprise Systems</b>.</p>
   <p>
     <a href="https://www.linkedin.com/in/chandima-mahela-siriwardana/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />

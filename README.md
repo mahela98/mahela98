@@ -1,64 +1,235 @@
+<div align="center">
+  <h1 align="center">Hi there, I'm <span style="color: #0078D4;">Chandima Mahela Siriwardana</span> 👋</h1>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1200&color=0078D4&center=true&vCenter=true&width=650&lines=AI+Engineer+%26+Solutions+Architect;Multi-Agent+Systems+%26+Azure+AI+Foundry;Microsoft+Agent+Framework+%26+Semantic+Kernel;Secure+Enterprise+System+Design;Python+%7C+.NET+%7C+TypeScript+%7C+Cloud" alt="Typing SVG" />
+  </a>
 
+  <p align="center">
+    <a href="https://www.linkedin.com/in/chandima-mahela-siriwardana/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:chandimaofficial@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://github.com/mahela98">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
+</div>
 
+---
 
+### 🚀 About Me
+
+Hey there! 👋 I'm an **AI Engineer & Solutions Architect** with deep roots in full-stack software engineering. I help businesses turn ambitious ideas into secure, high-impact, enterprise-grade AI systems.
+
+- 🤖 **Agentic AI & RAG**: Building autonomous multi-agent workflows and smart copilot solutions with **Microsoft Agent Framework**, **Azure AI Foundry**, and **Semantic Kernel**.
+- 🛡️ **Secure by Design**: Designing resilient, zero-trust architectures with robust guardrails and enterprise security best practices.
+- ⚡ **Full-Stack Roots**: Leveraging strong engineering foundations in **Python**, **.NET (C#)**, and **TypeScript / React** to ship rock-solid production backends.
+- 💡 **Always Exploring**: Passionate about cutting-edge agentic workflows, LLMOps, and distributed cloud systems.
+
+---
+
+### 🏛️ Core Architectural Pillars
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4 align="center">🤖 Agentic AI & RAG</h4>
+      <ul>
+        <li><b>Microsoft Agent Framework</b> & AutoGen</li>
+        <li><b>Azure AI Foundry</b> & Azure OpenAI</li>
+        <li><b>Semantic Kernel</b> & LangChain</li>
+        <li>Advanced RAG & Vector Indexing</li>
+        <li>Function Calling & Autonomous Agents</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h4 align="center">🛡️ Secure System Design</h4>
+      <ul>
+        <li><b>Zero Trust Architecture</b> & Threat Modeling</li>
+        <li>Secure API Design (OAuth2 / OIDC / Auth0)</li>
+        <li>OWASP Top 10 & LLM Guardrails</li>
+        <li>Enterprise RBAC & Data Encryption</li>
+        <li>Microservices & Event-Driven Systems</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h4 align="center">⚙️ Enterprise Engineering</h4>
+      <ul>
+        <li><b>Python</b> (FastAPI, AsyncIO, PyTorch)</li>
+        <li><b>.NET 8 / C#</b> (ASP.NET Core, EF Core)</li>
+        <li><b>React.js, Next.js</b> & TypeScript</li>
+        <li>MSSQL, PostgreSQL (pgvector), MongoDB</li>
+        <li>Docker, Linux & CI/CD Pipelines</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 💻 Technologies & Tools
+
+<div align="center">
+
+#### 🤖 AI, Machine Learning & LLMOps
 <p align="center">
-<a href="https://www.linkedin.com/in/chandima-mahela-siriwardana">
-  <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-  <img src="https://img.shields.io/github/stars/mahela98?style=social" alt="GitHub Stars" />
-  <img src="https://img.shields.io/github/followers/mahela98?style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Microsoft_Azure_AI_Foundry-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure AI Foundry" />
+  <img src="https://img.shields.io/badge/Microsoft_Agent_Framework-0089D6?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft Agent Framework" />
+  <img src="https://img.shields.io/badge/Semantic_Kernel-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Semantic Kernel" />
+  <img src="https://img.shields.io/badge/OpenAI_/_Azure_OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="Azure OpenAI" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
 </p>
 
- ### Languages and Tools
- <div align="center" >
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="30px" style="padding-right: 1%;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="MSSQL" alt="MSSQL" width="30px" style="padding-right: 1%;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" title=".NET" alt=".NET" width="30px" style="padding-right: 1%;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="30px" style="padding-right: 1%;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="30px" style="padding-right: 1%;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" title="Android" alt="Android" width="30px" style="padding-right: 1%;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="30px" style="padding-right: 1%;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="30px" style="padding-right: 1%;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="30px" style="padding-right: 1%;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="30px" style="padding-right: 1%;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub Workflows" alt="GitHub Workflows" width="30px" style="padding-right: 1%; background-color: purple;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" title="MUI" alt="MUI" width="30px" style="padding-right: 1%;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind CSS" alt="Tailwind CSS" width="30px" style="padding-right: 1%;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"    title="C" alt="C"  width="30px" style="padding-right: 1%;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"    title="HTML" alt="HTML"  width="30px" style="padding-right: 1%;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"   title="Js" alt="Js"  width="30px" style="padding-right: 1%;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"    title="CSS" alt="CSS"  width="30px" style="padding-right: 1%;" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"    title="Figma" alt="Figma"  width="30px" style="padding-right: 1%;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"   title="Flutter" alt="Flutter"  width="30px" style="padding-right: 1%;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"   title="Git" alt="Git"  width="30px" style="padding-right: 1%;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg"    title="Heroku" alt="Heroku"  width="30px" style="padding-right: 1%;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"   title="Java" alt="Java"  width="30px" style="padding-right: 1%;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"    title="Ubuntu" alt="Ubuntu"  width="30px" style="padding-right: 1%;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"    title="MongoDB" alt="MongoDB"  width="30px" style="padding-right: 1%;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"    title="MySQL" alt="MySQL"  width="30px" style="padding-right: 1%;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"   title="NestJS" alt="NestJS"  width="30px" style="padding-right: 1%;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg"   title="NodeJS" alt="NodeJS"  width="30px" style="padding-right: 1%;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"   title="Photoshop" alt="Photoshop"  width="30px" style="padding-right: 1%;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"    title="PHP" alt="PHP"  width="30px" style="padding-right: 1%;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"    title="React" alt="React"  width="30px" style="padding-right: 1%;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg"   title="Xd" alt="Xd"  width="30px" style="padding-right: 1%;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"    title="Bootstrap" alt="Bootstrap"  width="30px" style="padding-right: 1%;"/>
+#### ☁️ Cloud, Security & DevOps
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
+  <img src="https://img.shields.io/badge/Azure_AI_Search-008AD7?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure AI Search" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Auth0-EB5424?style=flat-square&logo=auth0&logoColor=white" alt="Auth0" />
+  <img src="https://img.shields.io/badge/Linux_/_Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Linux" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
+</p>
 
+#### ⚙️ Backend & Enterprise Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/PHP_/_Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+</p>
 
+#### 🎨 Frontend, Mobile & UI/UX
+<p align="center">
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white" alt="Material UI" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+</p>
+
+#### 🗄️ Databases & Vector Storage
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="MSSQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Firebase_Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+</p>
 
 </div>
-</br>
-</br>
 
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahela98&count_private=true&include_all_commits=true&line_height=24&show_icons=true&theme=tokyonight" alt="mahela98's GitHub Stats" />
-</p>
+### 📂 Featured Solutions & Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahela98&layout=compact&langs_count=6&theme=tokyonight&hide=php,java" alt="mahela98's Top Languages" />
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🏢 <a href="https://github.com/mahela98/EMVS-Employee-Management-Visualization-System-Readme">EMVS - Employee Management & Visualization System</a></h4>
+      <p>Enterprise management platform built with modern architectural patterns, interactive analytics, and robust security.</p>
+      <p>
+        <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/MSSQL-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="MSSQL" />
+        <img src="https://img.shields.io/badge/Auth0-EB5424?style=flat-square&logo=auth0&logoColor=white" alt="Auth0" />
+      </p>
+      <ul>
+        <li>OData REST APIs with Entity Framework Core</li>
+        <li>Secure JWT & Auth0 enterprise authentication</li>
+        <li>Material UI v5 & Chart.js data visualization</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🔒 <a href="https://github.com/mahela98/NestJs-Auth0-Gym-App-Backend">NestJS Enterprise Gym Management Backend</a></h4>
+      <p>Scalable, modular microservices backend with secure role-based access control and NoSQL persistence.</p>
+      <p>
+        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+        <img src="https://img.shields.io/badge/Auth0-EB5424?style=flat-square&logo=auth0&logoColor=white" alt="Auth0" />
+      </p>
+      <ul>
+        <li>Clean modular architecture & dependency injection</li>
+        <li>Auth0 JWT token verification & RBAC guardrails</li>
+        <li>Mongoose / MongoDB aggregation pipelines</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🧪 <a href="https://github.com/mahela98/ChemHub-Chemical-Management-Distribution-System">ChemHub - Chemical Distribution System</a></h4>
+      <p>Secure cloud inventory and distribution management platform with realtime sync and granular authorization.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/Firebase_Auth-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase Auth" />
+        <img src="https://img.shields.io/badge/Cloud_Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firestore" />
+        <img src="https://img.shields.io/badge/MUI_v5-007FFF?style=flat-square&logo=mui&logoColor=white" alt="MUI" />
+      </p>
+      <ul>
+        <li>Realtime Firestore data subscriptions</li>
+        <li>Firebase Security Rules & Role-based authentication</li>
+        <li>Responsive Material-UI design system</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📱 <a href="https://github.com/mahela98/Flutter-Movie-App">Flutter Cross-Platform Mobile Applications</a></h4>
+      <p>Production cross-platform mobile experiences with resilient state management and asynchronous API integrations.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+        <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white" alt="REST API" />
+      </p>
+      <ul>
+        <li>Clean UI architecture & state management</li>
+        <li>REST API consumption & offline caching</li>
+        <li>Smooth micro-animations & native device UX</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-<br />
+---
 
-<br />
+### 📊 GitHub Activity & Analytics
+
+<div align="center">
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=mahela98&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="mahela98's GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahela98&theme=tokyonight&hide_border=true" alt="mahela98's GitHub Streak" />
+  </p>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahela98&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="mahela98's Top Languages" />
+  </p>
+</div>
+
+---
+
+### 🤝 Let's Connect & Collaborate
+
+<div align="center">
+  <p>I'm always open to discussing <b>AI Solution Architecture</b>, <b>Multi-Agent Systems</b>, <b>Secure Enterprise Design</b>, or innovative engineering challenges.</p>
+  <p>
+    <a href="https://www.linkedin.com/in/chandima-mahela-siriwardana/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    &nbsp;
+    <a href="mailto:chandimaofficial@gmail.com">
+      <img src="https://img.shields.io/badge/Email-chandimaofficial%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+</div>

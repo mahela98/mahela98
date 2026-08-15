@@ -1,5 +1,7 @@
 <div align="center">
-  <h1>Hi, I'm <span style="color: #0078D4;">Chandima Mahela Siriwardana</span> 👋</h1>
+  <img src="./assets/matrix-banner.svg" alt="Matrix Cyber Banner" width="100%" />
+
+  <br /><br />
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=19&pause=1200&color=0078D4&center=true&vCenter=true&width=650&lines=AI+Engineer+%26+Solutions+Architect;Flutter+%26+Cross-Platform+Mobile+Engineer;Multi-Agent+Systems+%7C+Azure+AI+Foundry+%7C+Semantic+Kernel;Secure+Enterprise+System+Design;Python+%7C+.NET+%7C+TypeScript+%7C+Cloud" alt="Typing SVG" />

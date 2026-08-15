@@ -15,6 +15,14 @@
     <a href="https://github.com/mahela98">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
+    <img src="https://komarev.com/ghpvc/?username=mahela98&style=for-the-badge&color=0078D4&label=PROFILE+VIEWS" alt="Profile Views" />
+  </p>
+
+  <!-- GitHub Profile Trophies -->
+  <p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=mahela98&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="mahela98's trophies" />
+    </a>
   </p>
 </div>
 
@@ -22,7 +30,7 @@
 
 ### 🚀 About Me
 
-Hey there! 👋 I'm an **AI Engineer & Solutions Architect** with strong foundations in **Cross-Platform Mobile Engineering (Flutter)** and **Enterprise Software Architecture**. I love taking ambitious business problems and engineering secure, intelligent, and scalable systems across mobile, web, and cloud.
+Hey there! 👋 I'm an **AI Engineer & Solutions Architect** with strong foundations in **Cross-Platform Mobile Engineering (Flutter)** and **Enterprise Software Architecture**. I help businesses turn ambitious ideas into secure, high-impact, enterprise-grade AI and mobile systems.
 
 - 🤖 **Agentic AI & Intelligent Systems**: Architecting autonomous multi-agent workflows, tool-augmented copilots, and high-precision RAG systems using **Microsoft Agent Framework**, **Azure AI Foundry**, and **Semantic Kernel**.
 - 📱 **Cross-Platform Mobile (Flutter & Dart)**: Crafting fluid, production-ready iOS & Android apps with modern state management (**Riverpod**, **Bloc**), geolocation/maps, push notifications, and offline-first syncing.
@@ -68,6 +76,80 @@ Hey there! 👋 I'm an **AI Engineer & Solutions Architect** with strong foundat
     </td>
   </tr>
 </table>
+
+---
+
+### 🔍 Interactive System Blueprints & Architecture Deep-Dives
+
+<details>
+<summary><b>🤖 Click to expand: Enterprise Multi-Agent & RAG Architecture Blueprint</b></summary>
+<br />
+
+```mermaid
+flowchart TD
+    Client[📱 Client App / Teams Bot] -->|HTTPS + OAuth2 JWT| Gateway[🛡️ Zero-Trust API Gateway & Guardrails]
+    Gateway --> Orchestrator[🧠 Semantic Kernel / MS Agent Framework]
+    
+    subgraph Agentic_Orchestrator [Agentic Multi-Agent System]
+        Orchestrator --> Planner[📋 Planner Agent]
+        Planner --> RAG[🔍 RAG Agent]
+        Planner --> ToolAgent[🔌 Tool / MCP Agent]
+        Planner --> Verifier[✅ Guardrail & Verification Agent]
+    end
+
+    RAG <--> VectorDB[(🗄️ Azure AI Search / pgvector)]
+    ToolAgent <--> ExtAPIs[(⚡ External APIs / Enterprise DB)]
+    Verifier -->|Grounded & Sanitized Response| Gateway
+    Gateway -->|Streaming Output| Client
+```
+
+> **Key Design Highlights**:
+> - **Input/Output Sanitization**: OWASP LLM prompt injection defenses and PII masking.
+> - **Hybrid Retrieval**: Dense vector embeddings paired with sparse BM25 keyword search.
+> - **Multi-Agent Coordination**: Autonomous tool-calling with deterministic fallback loops.
+</details>
+
+<details>
+<summary><b>📱 Click to expand: Flutter Production State & Clean Architecture Flow</b></summary>
+<br />
+
+```mermaid
+flowchart LR
+    subgraph Presentation_Layer [Presentation Layer]
+        UI[📱 Flutter UI Screens] -->|watch / read| Providers[⚡ Riverpod 2.5 StateNotifier]
+    end
+
+    subgraph Domain_Layer [Domain & State Layer]
+        Providers --> UseCases[⚙️ App Controllers & Business Logic]
+    end
+
+    subgraph Data_Layer [Data & Integration Layer]
+        UseCases --> Repo[📦 Repository Layer]
+        Repo --> Cache[(💾 SQLite / Local Cache)]
+        Repo --> Remote[(☁️ Supabase / REST / Firebase)]
+    end
+```
+
+> **Key Design Highlights**:
+> - **Predictable State Flow**: Unidirectional data flow with Riverpod providers and GoRouter routing.
+> - **Offline-First Resilience**: Automatic local persistence with background synchronization.
+> - **Agentic Device QA**: Automated testing via custom Mobile Screen MCP integration.
+</details>
+
+<details>
+<summary><b>🛡️ Click to expand: Zero-Trust Security & Identity Blueprint</b></summary>
+<br />
+
+```mermaid
+flowchart TD
+    User([👤 User / Client Request]) -->|1. Authentication Handshake| IdP[🔐 Auth0 / Azure Entra ID]
+    IdP -->|2. Issue Signed JWT with Scopes| User
+    User -->|3. Request + Bearer Token| Gate[🛡️ API Gateway / Reverse Proxy]
+    Gate -->|4. Claims Verification & Rate Limiting| AuthGuard[🔒 RBAC Guard & Policy Engine]
+    AuthGuard -->|5. Authorized Execution| Microservice[⚙️ Backend Microservice]
+    Microservice -->|6. Encrypted TLS Connection| Database[(🗄️ Encrypted Database & Vector Store)]
+```
+</details>
 
 ---
 
@@ -208,7 +290,19 @@ Hey there! 👋 I'm an **AI Engineer & Solutions Architect** with strong foundat
 
 ---
 
-### 📊 GitHub Activity & Analytics
+### 🐍 Contribution Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahela98/mahela98/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahela98/mahela98/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/mahela98/mahela98/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+---
+
+### 📊 GitHub Analytics
 
 <div align="center">
   <p align="center">

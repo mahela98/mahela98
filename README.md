@@ -18,7 +18,6 @@
     <img src="https://komarev.com/ghpvc/?username=mahela98&style=for-the-badge&color=0078D4&label=PROFILE+VIEWS" alt="Profile Views" />
   </p>
 
-  <!-- GitHub Profile Trophies -->
   <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
       <img src="https://github-profile-trophy.vercel.app/?username=mahela98&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="mahela98's trophies" />
@@ -26,19 +25,19 @@
   </p>
 </div>
 
----
+<br />
 
 ### 🚀 About Me
 
 Hey there! 👋 I'm an **AI Engineer & Solutions Architect** with strong foundations in **Cross-Platform Mobile Engineering (Flutter)** and **Enterprise Software Architecture**. I help businesses turn ambitious ideas into secure, high-impact, enterprise-grade AI and mobile systems.
 
-- 🤖 **Agentic AI & Intelligent Systems**: Architecting autonomous multi-agent workflows, tool-augmented copilots, and high-precision RAG systems using **Microsoft Agent Framework**, **Azure AI Foundry**, and **Semantic Kernel**.
-- 📱 **Cross-Platform Mobile (Flutter & Dart)**: Crafting fluid, production-ready iOS & Android apps with modern state management (**Riverpod**, **Bloc**), geolocation/maps, push notifications, and offline-first syncing.
-- 🛡️ **Secure by Design**: Designing high-availability architectures built on **Zero-Trust principles**, **Threat Modeling**, **OWASP LLM Security**, and enterprise RBAC/Auth0.
-- ⚡ **Full-Stack & Distributed Backends**: Deep hands-on experience across **Python (FastAPI)**, **.NET 8 / C#**, and **React / Next.js** to deliver rock-solid production platforms.
-- 🔌 **Agentic Tooling & MCP**: Building custom **Model Context Protocol (MCP)** servers to bridge AI agents with native mobile emulators and real-world tools.
+* 🤖 **Agentic AI & Intelligent Systems**: Architecting autonomous multi-agent workflows, tool-augmented copilots, and high-precision RAG systems using **Microsoft Agent Framework**, **Azure AI Foundry**, and **Semantic Kernel**.
+* 📱 **Cross-Platform Mobile (Flutter & Dart)**: Crafting fluid, production-ready iOS & Android apps with modern state management (**Riverpod**, **Bloc**), geolocation/maps, push notifications, and offline-first syncing.
+* 🛡️ **Secure by Design**: Designing high-availability architectures built on **Zero-Trust principles**, **Threat Modeling**, **OWASP LLM Security**, and enterprise RBAC/Auth0.
+* ⚡ **Full-Stack & Distributed Backends**: Deep hands-on experience across **Python (FastAPI)**, **.NET 8 / C#**, and **React / Next.js** to deliver rock-solid production platforms.
+* 🔌 **Agentic Tooling & MCP**: Building custom **Model Context Protocol (MCP)** servers to bridge AI agents with native mobile emulators and real-world tools.
 
----
+<br />
 
 ### 🏛️ Core Architectural & Engineering Pillars
 
@@ -77,7 +76,7 @@ Hey there! 👋 I'm an **AI Engineer & Solutions Architect** with strong foundat
   </tr>
 </table>
 
----
+<br />
 
 ### 🔍 Interactive System Blueprints & Architecture Deep-Dives
 
@@ -104,9 +103,9 @@ flowchart TD
 ```
 
 > **Key Design Highlights**:
-> - **Input/Output Sanitization**: OWASP LLM prompt injection defenses and PII masking.
-> - **Hybrid Retrieval**: Dense vector embeddings paired with sparse BM25 keyword search.
-> - **Multi-Agent Coordination**: Autonomous tool-calling with deterministic fallback loops.
+> * **Input/Output Sanitization**: OWASP LLM prompt injection defenses and PII masking.
+> * **Hybrid Retrieval**: Dense vector embeddings paired with sparse BM25 keyword search.
+> * **Multi-Agent Coordination**: Autonomous tool-calling with deterministic fallback loops.
 </details>
 
 <details>
@@ -131,9 +130,9 @@ flowchart LR
 ```
 
 > **Key Design Highlights**:
-> - **Predictable State Flow**: Unidirectional data flow with Riverpod providers and GoRouter routing.
-> - **Offline-First Resilience**: Automatic local persistence with background synchronization.
-> - **Agentic Device QA**: Automated testing via custom Mobile Screen MCP integration.
+> * **Predictable State Flow**: Unidirectional data flow with Riverpod providers and GoRouter routing.
+> * **Offline-First Resilience**: Automatic local persistence with background synchronization.
+> * **Agentic Device QA**: Automated testing via custom Mobile Screen MCP integration.
 </details>
 
 <details>
@@ -151,7 +150,7 @@ flowchart TD
 ```
 </details>
 
----
+<br />
 
 ### 💻 Technologies & Tools
 
@@ -217,14 +216,14 @@ flowchart TD
 
 </div>
 
----
+<br />
 
 ### 📂 Featured Solutions & Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🤖 Transporter Mini — AI Fleet & Route Optimization</h4>
+      <h4>🤖 Transporter Mini: AI Fleet & Route Optimization</h4>
       <p>AI-powered corporate transport management system with automated agent booking, intelligent route planning, and MS Teams integration.</p>
       <p>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
@@ -239,7 +238,7 @@ flowchart TD
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>📱 Yakadaweda — Commercial Steel & Materials Platform</h4>
+      <h4>📱 Yakadaweda: Commercial Steel & Materials Platform</h4>
       <p>Production cross-platform mobile marketplace connecting customers and suppliers across Sri Lanka with realtime tracking.</p>
       <p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
@@ -256,7 +255,7 @@ flowchart TD
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🔌 Mobile Screen MCP — Agentic Mobile Automation</h4>
+      <h4>🔌 Mobile Screen MCP: Agentic Mobile Automation</h4>
       <p>Model Context Protocol server enabling LLM agents to autonomously inspect, tap, type, and navigate booted iOS & Android emulators.</p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -271,7 +270,7 @@ flowchart TD
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>🏢 <a href="https://github.com/mahela98/EMVS-Employee-Management-Visualization-System-Readme">EMVS — Enterprise Management & Visualization</a></h4>
+      <h4>🏢 <a href="https://github.com/mahela98/EMVS-Employee-Management-Visualization-System-Readme">EMVS: Enterprise Management & Visualization</a></h4>
       <p>Enterprise management platform built with modern architectural patterns, interactive analytics, and robust security.</p>
       <p>
         <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
@@ -288,7 +287,7 @@ flowchart TD
   </tr>
 </table>
 
----
+<br />
 
 ### 🐍 Contribution Activity
 
@@ -300,7 +299,7 @@ flowchart TD
   </picture>
 </div>
 
----
+<br />
 
 ### 📊 GitHub Analytics
 
@@ -314,7 +313,7 @@ flowchart TD
   </p>
 </div>
 
----
+<br />
 
 ### 🤝 Let's Connect & Collaborate
 
